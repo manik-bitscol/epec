@@ -1,0 +1,6 @@
+/plugins/fontawesome-free/css/all.min.css
+/dist/css/adminlte.min.css
+/plugins/icheck-bootstrap/icheck-bootstrap.min.css
+/plugins/jquery/jquery.min.js
+/plugins/bootstrap/js/bootstrap.bundle.min.js
+/dist/js/adminlte.min.js
